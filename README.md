@@ -2,8 +2,7 @@
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
-- Learn the Rust programming language
-- Learn which languages are faster
+- Learn HTML and CSS
 
 
 # Week 9 and 10 Final Project
@@ -17,11 +16,9 @@
 
 <h3>Project Must Include</h3>
 
-- Minimum of 1 user input
-- Minimum of 1 list or dictionary variable
-- Minimum of 3 statements (if, else if, else)
-- Minimum of 2 for loops and 1 while loop
-- Minimum of 3 functions (1 requires parameters), (1 returns value)
+- Minimum of 3 Headers
+- Minimum of 4 Paragraphs
+- Minimum of 1 Image
 
 
 # License
