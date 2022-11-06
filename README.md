@@ -2,7 +2,8 @@
 ![maxresdefault](https://user-images.githubusercontent.com/75189508/194362463-7f25767e-9d8d-4240-a5f1-1134ebd8e734.jpg)
 
 # About
-- Learn HTML and CSS
+- Learn HTML
+- Learn CSS
 
 
 # Week 9 and 10 Final Project
