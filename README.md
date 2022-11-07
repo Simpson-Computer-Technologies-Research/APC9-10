@@ -17,9 +17,10 @@
 
 <h3>Project Must Include</h3>
 
-- Minimum of 3 Headers
-- Minimum of 4 Paragraphs
-- Minimum of 1 Image
+- Minimum of 1 Database
+- Minimum of 2 Queries
+- Minimum of 2 Updates
+- Minimum of 4 Insertions
 
 
 # License
